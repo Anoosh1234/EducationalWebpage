@@ -79,7 +79,7 @@ We welcome contributions and suggestions. If you'd like to contribute to our pro
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-![Alt text]("https://anoosh1234.github.io/EducationalWebpage/images/pythonFullStack.jpg")
+![Alt text]("/images/home.jpg")
 
 ## Contact Information
 
