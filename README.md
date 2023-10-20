@@ -79,7 +79,9 @@ We welcome contributions and suggestions. If you'd like to contribute to our pro
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-![Alt text]("/images/home.jpg")
+## Screenshots
+
+![Example Feature](images/Home.jpg)
 
 ## Contact Information
 
