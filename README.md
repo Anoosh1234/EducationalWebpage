@@ -82,7 +82,11 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ## Screenshots
 
 ![Example Feature](images/Home.jpg)
-![Image description](image.png)
+
+![Example Feature](images/About.jpg)
+![Example Feature](images/placements.jpg)
+![Example Feature](images/reviews.jpg)
+![Example Feature](images/courses.jpg)
 
 
 ## Contact Information
