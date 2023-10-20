@@ -82,6 +82,8 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ## Screenshots
 
 ![Example Feature](images/Home.jpg)
+![Image description](image.png)
+
 
 ## Contact Information
 
