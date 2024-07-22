@@ -89,11 +89,7 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ![Example Feature](images/courses.jpg)
 
 
-## Contact Information
 
-If you have any questions, suggestions, or need assistance, please don't hesitate to reach out to us:
-
-- Email: contact@palletechnologies.com
 
 We're here to help you on your educational journey!
 
